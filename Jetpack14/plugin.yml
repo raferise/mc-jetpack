@@ -1,0 +1,6 @@
+version: 1.0
+api-version: 1.14
+name: Jetpack
+main: com.infinitymeme.jetpack.Main
+author: infinitymeme
+description: Allows players to craft jetpacks.
